@@ -1,0 +1,19 @@
+body {
+  background-image: url("../img/placeholder.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.placeholder {
+    width: 60%;
+    height: 50%;
+    margin: 2% auto;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: #000;
+    background: #fff;
+    font-family: 'Lora', serif;
+}
